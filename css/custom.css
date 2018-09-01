@@ -1,0 +1,17 @@
+.mt-1{
+    margin-top: 10px;
+}
+
+.jumbotron{
+    background-color: #ffffff;
+}
+
+.body{
+    font-family: 'Ubuntu', sans-serif !important;
+}
+
+.image-property{
+    max-width: 50px;
+    max-height: 50px;
+    padding-left: 10px;
+}
