@@ -6,35 +6,134 @@
     background-color: #ffffff;
 }
 
-.body{
-    font-family: 'Ubuntu', sans-serif !important;
-}
 
 .image-property{
-    max-width: 50px;
-    max-height: 50px;
-    padding-left: 10px;
+    max-width: 35px;
+    max-height: 35px;
+    padding-left: 0px;
+    margin-right: 40px;
 }
 
 .section-heading{
     text-transform: uppercase;
+    padding-top: 40px;
+    letter-spacing: 1px;
+    font-weight: unset;
 }
 
 .tech-stack{
     max-width: 100px;
     max-height: 100px;
 }
-
-.project-header{
-    color: aqua
+.tech-stack-block{
+    margin-top: 40px;
 }
 
-.project-pointer{
-    max-width: 30px;
+.m-t-40{
+    margin-top: 40px;
+}
+
+.m-t-50{
+    margin-top: 50px;
+}
+
+.m-b-50{
+    margin-bottom: 50px;
+}
+
+.m-t-80{
+    margin-top: 80px;
+}
+
+.p-t-60{
+    padding-top: 60px;
+}
+
+.p-t-40{
+    padding-top: 40px;
+}
+
+.p-l-40{
+    padding-left: 40px;
+}
+
+.p-t-50{
+    padding-top: 50px;
+}
+
+.m-l-1{
+    margin-left: 1px;
+}
+
+.right-arrow{
+    max-width: 20px;
     max-height: 30px;
+    margin-left: 15px;
 }
 
 .copyright{
     margin-left: auto;
     margin-right: 0px;
+    float: right;
 }
+
+body{
+    font-family: 'Ubuntu', sans-serif ! important;
+    letter-spacing: 2px;
+}
+
+.btn-primary{
+    color: #007bff;
+}
+
+.jumbotron-head{
+    margin-top: 70px;
+    margin-bottom: 0px;
+}
+
+.heading-subhead{
+    letter-spacing: 1px;
+    font-size: 26px;
+    line-height: 1;
+    font-weight: unset;
+}
+
+.heading-para{
+    margin-top: 40px;
+    letter-spacing: 0px;
+    line-height: 1.15;
+    font-weight: 100;
+}
+
+.links{
+    margin-top: 50px;
+}
+
+.separator{
+    background-color: #000000;
+    height: 2px;
+}
+
+.project-heading{
+    margin-top: 50px;
+    letter-spacing: 0px;
+    font-weight: unset;
+}
+
+.project-para{
+    margin-top: 20px;
+    letter-spacing: 0px;
+}
+
+.project-tech{
+    margin-top: 30px;
+    letter-spacing: 0px;
+    margin-bottom: 70px;
+}
+
+.squasher{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
